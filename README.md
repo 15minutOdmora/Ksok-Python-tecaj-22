@@ -6,6 +6,10 @@ Snov iz prejšnjega leta:
 
 ---
 
+### Novice:
+
+Prva predavanja bodo v sredo 23.03.2022 ob 17:30 do okviroma 19:15 (+ 15min pavze)
+
 ### Zoom:
 
 Topic: Kšok - Python tečaj 2022
