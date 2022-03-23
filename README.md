@@ -89,6 +89,7 @@ Coming soon...
     - Atributi, lastnosti in metoda
     - Dedovanje, super
     - Magične metode
+- List comprehension
 - Iteratorji
 - Try, except in finally
 - Moduli
