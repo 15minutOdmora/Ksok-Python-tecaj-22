@@ -8,7 +8,7 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-Prva predavanja bodo v sredo 23.03.2022 ob 17:30 do okviroma 19:15 (z 15min pavze)
+Druga predavanja so prestavljena za en dan!
 
 ### Zoom:
 
@@ -32,7 +32,7 @@ liammislej@gmail.com
 ### Predavanja:
 
 - 23.03.2022, 17:30 - 19:30
-- 30.03.2022, 17:30 - 19:30 - morda bo treba prestaviti
+- ~~30.03.2022, 17:30 - 19:30~~ prestavljeno na 31.03.2022, 17:30 - 19:15 
 - 06.04.2022, 17:30 - 19:30
 - 13.04.2022, 17:30 - 19:30
 - 20.04.2022, 17:30 - 19:30 - potrebno prestaviti
@@ -61,7 +61,8 @@ V kolikor ne želite pobrati VSCode pride z inštalacijo Pythona še privzeti ur
 
 ## Uporabni viri
 
-Coming soon...
+Osnove katere jemljemo med predavanji:
+https://www.w3schools.com/python/
 
 ---
 
