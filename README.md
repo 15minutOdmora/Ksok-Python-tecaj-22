@@ -8,8 +8,6 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-Druga predavanja so prestavljena za en dan!
-
 ### Zoom:
 
 Topic: Kšok - Python tečaj 2022
@@ -70,15 +68,16 @@ https://www.w3schools.com/python/
 
 **Pregled:**
 
-- Uvod v programiranje, osnovni pojmi, sintaksa, spremenljivke, komentarji
+- Uvod v programiranje, osnovni pojmi, sintaksa, spremenljivke, komentarji (P1)
 - Podatkovni tipi
-    - Števila
-    - Nizi, formatiranje
-    - Seznami, tupli, množice
-    - Slovarji
-    - Uvod v objekte
+    - Števila (P1 in P2)
+    - Nizi, formatiranje (P1)
+    - Seznami, tupli, množice (P2)
+    - Slovarji (P2)
+    - Uvod v objekte (P2)
+- Operatorji (P2)
 - Pogojni stavki
-    - If, elif, else
+    - If, elif, else (P3)
 - Zanke
     - While
     - For
