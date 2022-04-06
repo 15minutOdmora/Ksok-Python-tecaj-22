@@ -79,34 +79,35 @@ https://www.w3schools.com/python/
 - Pogojni stavki
     - If, elif, else (P3)
 - Zanke
-    - While
-    - For
+    - While (P3)
+    - For (P3)
 - Funkcije
-    - Različni tipi
-    - Anonimne lambda funkcije
+    - Različni tipi (P4)
+    - Anonimne lambda funkcije (P4)
+- Ponovitev snovi; Križec krožec v konzoli (P5)
 - Razredi in objektno programiranje
-    - Definicija razredov, uporaba
-    - Atributi, lastnosti in metoda
-    - Dedovanje, super
-    - Magične metode
-- List comprehension
-- Iteratorji
-- Try, except in finally
-- Moduli
-    - Privzeti moduli
-    - Lokalni moduli
-    - PIP
+    - Definicija razredov, uporaba (P6)
+    - Atributi, lastnosti in metode (P6)
+    - Dedovanje, super (P7)
+    - Magične metode (P7)
+- List comprehension (P8)
+- Iteratorji (P8)
+- Try, except in finally (P8)
+- Moduli 
+    - Privzeti moduli (P9)
+    - Lokalni moduli (P9)
+    - PIP (P9)
 - Privzeti moduli
-    - Date, timedate
-    - Math
-    - Random
+    - Date, timedate (P9)
+    - Math (P9)
+    - Random (P9)
 - Datoteke
-    - Upravljanje z datotekami (pisanje, branje)
-    - JSON
-    - Csv
-- Virtualizacija (virtual environments)
-- Matplotlib
-- Krajši projekt, ideje:
+    - Upravljanje z datotekami (pisanje, branje) (P10)
+    - JSON (P10)
+    - Csv (P10)
+- Virtualizacija (virtual environments) (P10)
+- Matplotlib (P10)
+- Krajši projekt, ideje: (P11 in P12)
     - Video igra (Pygame)
     - Branje strani ali "web scraping" (Selenium, BS4)
     - Osnove spletnih strani (Flask)
