@@ -8,6 +8,8 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
+Predavanja, ki naj bi nastopila v sredo 20.04.2022 bodo prestavljena na petek 22.04.2022.
+
 ### Zoom:
 
 Topic: Kšok - Python tečaj 2022
@@ -33,7 +35,7 @@ liammislej@gmail.com
 - ~~30.03.2022, 17:30 - 19:30~~ prestavljeno na 31.03.2022, 17:30 - 19:15 
 - 06.04.2022, 17:30 - 19:30
 - 13.04.2022, 17:30 - 19:30
-- 20.04.2022, 17:30 - 19:30 - potrebno prestaviti
+- ~~20.04.2022, 17:30 - 19:30~~ - prestavljeno na petek 22.04.2022
 - 27.04.2022, 17:30 - 19:30
 - 04.05.2022, 17:30 - 19:30
 - 11.05.2022, 17:30 - 19:30
@@ -84,30 +86,30 @@ https://www.w3schools.com/python/
 - Funkcije
     - Različni tipi (P4)
     - Anonimne lambda funkcije (P4)
-- Ponovitev snovi; Križec krožec v konzoli (P5)
+- Ponovitev snovi; Križec krožec v konzoli (P4)
 - Razredi in objektno programiranje
-    - Definicija razredov, uporaba (P6)
-    - Atributi, lastnosti in metode (P6)
-    - Dedovanje, super (P7)
-    - Magične metode (P7)
-- List comprehension (P8)
-- Iteratorji (P8)
-- Try, except in finally (P8)
+    - Definicija razredov, uporaba (P5)
+    - Atributi, lastnosti in metode (P5)
+    - Dedovanje, super (P5)
+    - Magične metode (P6)
+- List comprehension (P6)
+- Iteratorji (P6)
+- Try, except in finally (P6)
 - Moduli 
-    - Privzeti moduli (P9)
-    - Lokalni moduli (P9)
-    - PIP (P9)
+    - Privzeti moduli (P7)
+    - Lokalni moduli (P7)
+    - PIP (P7)
 - Privzeti moduli
-    - Date, timedate (P9)
-    - Math (P9)
-    - Random (P9)
+    - Date, timedate (P7)
+    - Math (P7)
+    - Random (P7)
 - Datoteke
-    - Upravljanje z datotekami (pisanje, branje) (P10)
-    - JSON (P10)
-    - Csv (P10)
-- Virtualizacija (virtual environments) (P10)
-- Matplotlib (P10)
-- Krajši projekt, ideje: (P11 in P12)
+    - Upravljanje z datotekami (pisanje, branje) (P8)
+    - JSON (P8)
+    - Csv (P8)
+- Virtualizacija (virtual environments) (P8)
+- Matplotlib (P8)
+- Krajši projekt, ideje: (P9)
     - Video igra (Pygame)
     - Branje strani ali "web scraping" (Selenium, BS4)
     - Osnove spletnih strani (Flask)
