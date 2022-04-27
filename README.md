@@ -8,7 +8,7 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-Predavanja, ki naj bi nastopila v sredo 20.04.2022 bodo prestavljena na petek 22.04.2022.
+Predavanja iz srede 27.4 so prestavljena na petek 29.4 ob 17:30.
 
 ### Zoom:
 
@@ -36,7 +36,7 @@ liammislej@gmail.com
 - (P3) 06.04.2022, 17:30 - 19:30
 - (P4) 13.04.2022, 17:30 - 19:30
 - (P5) ~~20.04.2022, 17:30 - 19:30~~ - prestavljeno na petek 22.04.2022
-- (P6) 27.04.2022, 17:30 - 19:30
+- (P6) ~~27.04.2022, 17:30 - 19:30~~ - prestavljeno na petek 29.04.2022
 - (P7) 04.05.2022, 17:30 - 19:30
 - (P8) 11.05.2022, 17:30 - 19:30
 - (P9) 18.05.2022, 17:30 - 19:30
