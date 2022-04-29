@@ -8,7 +8,9 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-Predavanja iz srede 27.4 so prestavljena na petek 29.4 ob 17:30.
+6. predavanja so bila prestavljena za en teden, prav tako vsa ostala prihajajoča predavanja.
+
+Naslednja predavanja so torej v sredo 04.05.2022 0b 17:30.
 
 ### Zoom:
 
@@ -36,10 +38,13 @@ liammislej@gmail.com
 - (P3) 06.04.2022, 17:30 - 19:30
 - (P4) 13.04.2022, 17:30 - 19:30
 - (P5) ~~20.04.2022, 17:30 - 19:30~~ - prestavljeno na petek 22.04.2022
-- (P6) ~~27.04.2022, 17:30 - 19:30~~ - prestavljeno na petek 29.04.2022
-- (P7) 04.05.2022, 17:30 - 19:30
-- (P8) 11.05.2022, 17:30 - 19:30
-- (P9) 18.05.2022, 17:30 - 19:30
+
+Prestavljeni termini za en teden:
+
+- (P6) 04.05.2022, 17:30 - 19:30
+- (P7) 11.05.2022, 17:30 - 19:30
+- (P8) 18.05.2022, 17:30 - 19:30
+- (P9) 25.05.2022, 17:30 - 19:30
 
 ---
 
@@ -90,8 +95,8 @@ https://www.w3schools.com/python/
 - Razredi in objektno programiranje
     - Definicija razredov, uporaba (P5)
     - Atributi, lastnosti in metode (P5)
-    - Dedovanje, super (P5)
-    - Magične metode (P6)
+    - Dedovanje, super (P6)
+    - Magične metode (P5)
 - List comprehension (P6)
 - Iteratorji (P6)
 - Try, except in finally (P6)
