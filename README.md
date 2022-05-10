@@ -8,9 +8,10 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-6. predavanja so bila prestavljena za en teden, prav tako vsa ostala prihajajoča predavanja.
+7. predavanja so 11.04.2022 ob 17:30
 
-Naslednja predavanja so torej v sredo 04.05.2022 0b 17:30.
+Anketa o temi končnega projekta:
+https://docs.google.com/forms/d/e/1FAIpQLScn6BA-bGc0GGZ2EwQkn8zcFWzKRiakArafow2rW5LdvZ5eDA/viewform?usp=sf_link
 
 ### Zoom:
 
