@@ -10,7 +10,7 @@ Snov iz prejšnjega leta:
 
 8. predavanja so 18.04.2022 ob 17:30
 
-Za končni projekt je bila izbrana tema ****
+Za končni projekt je bila izbrana tema **Manipulacija slik ali videov (OpenCV2)**
 
 ### Zoom:
 
