@@ -8,10 +8,9 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-7. predavanja so 11.04.2022 ob 17:30
+8. predavanja so 18.04.2022 ob 17:30
 
-Anketa o temi končnega projekta:
-https://docs.google.com/forms/d/e/1FAIpQLScn6BA-bGc0GGZ2EwQkn8zcFWzKRiakArafow2rW5LdvZ5eDA/viewform?usp=sf_link
+Za končni projekt je bila izbrana tema ****
 
 ### Zoom:
 
@@ -116,10 +115,10 @@ https://www.w3schools.com/python/
 - Virtualizacija (virtual environments) (P8)
 - Matplotlib (P8)
 - Krajši projekt, ideje: (P8 in P9)
-    - Video igra (Pygame)
-    - Branje strani ali "web scraping" (Selenium, BS4)
-    - Osnove spletnih strani (Flask)
-    - Manipulacija slik ali videov (OpenCV2)
-    - Delanje z podatki (Numpy, Pandas, Matplolib)
+    - ~~Video igra (Pygame)
+    - ~~Branje strani ali "web scraping" (Selenium, BS4)
+    - ~~Osnove spletnih strani (Flask)
+    - **Manipulacija slik ali videov (OpenCV2)**
+    - ~~Delanje z podatki (Numpy, Pandas, Matplolib)
 
 ---
