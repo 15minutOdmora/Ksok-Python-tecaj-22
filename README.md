@@ -122,3 +122,19 @@ https://www.w3schools.com/python/
     - ~~Delanje z podatki (Numpy, Pandas, Matplolib)~~
 
 ---
+
+### Uporaba pip:
+
+Preden pobiramo knjižnjice je najbolje posodobiti pip:
+
+```
+pip install --upgrade pip
+```
+
+Posamezno knjižnjico poberemo tako, da podamo njeno ime. 
+
+**Opomba**: Preden pobirate knjižnice; preverite na PyPI strani točno ime. Pojavljajo se duplikati knjižnjic s škodljivo kodo!
+
+```
+pip install opencv-python
+```
