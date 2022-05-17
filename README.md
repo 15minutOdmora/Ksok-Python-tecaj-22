@@ -115,10 +115,10 @@ https://www.w3schools.com/python/
 - Virtualizacija (virtual environments) (P8)
 - Matplotlib (P8)
 - Krajši projekt, ideje: (P8 in P9)
-    - ~~Video igra (Pygame)
-    - ~~Branje strani ali "web scraping" (Selenium, BS4)
-    - ~~Osnove spletnih strani (Flask)
+    - ~~Video igra (Pygame)~~
+    - ~~Branje strani ali "web scraping" (Selenium, BS4)~~
+    - ~~Osnove spletnih strani (Flask)~~
     - **Manipulacija slik ali videov (OpenCV2)**
-    - ~~Delanje z podatki (Numpy, Pandas, Matplolib)
+    - ~~Delanje z podatki (Numpy, Pandas, Matplolib)~~
 
 ---
