@@ -1,0 +1,200 @@
+[
+    {
+        "Name": "Davis",
+        "Surname": "Bertans",
+        "Number": "44",
+        "Position": "SF",
+        "Age": "29",
+        "Height": "2.08m",
+        "Weight": "102kg",
+        "College": "--",
+        "Salary": "15200000\u20ac"
+    },
+    {
+        "Name": "Sterling",
+        "Surname": "Brown",
+        "Number": "0",
+        "Position": "SF",
+        "Age": "27",
+        "Height": "1.96m",
+        "Weight": "99kg",
+        "College": "SMU",
+        "Salary": "2850000\u20ac"
+    },
+    {
+        "Name": "Jalen",
+        "Surname": "Brunson",
+        "Number": "13",
+        "Position": "PG",
+        "Age": "25",
+        "Height": "1.85m",
+        "Weight": "86kg",
+        "College": "Villanova",
+        "Salary": "1711954\u20ac"
+    },
+    {
+        "Name": "Reggie",
+        "Surname": "Bullock",
+        "Number": "25",
+        "Position": "SF",
+        "Age": "31",
+        "Height": "1.98m",
+        "Weight": "93kg",
+        "College": "NorthCarolina",
+        "Salary": "9059200\u20ac"
+    },
+    {
+        "Name": "Trey",
+        "Surname": "Burke",
+        "Number": "3",
+        "Position": "PG",
+        "Age": "29",
+        "Height": "1.83m",
+        "Weight": "84kg",
+        "College": "Michigan",
+        "Salary": "2992500\u20ac"
+    },
+    {
+        "Name": "Marquese",
+        "Surname": "Chriss",
+        "Number": "32",
+        "Position": "SF",
+        "Age": "24",
+        "Height": "2.06m",
+        "Weight": "109kg",
+        "College": "Washington",
+        "Salary": "910603\u20ac"
+    },
+    {
+        "Name": "Spencer",
+        "Surname": "Dinwiddie",
+        "Number": "26",
+        "Position": "PG",
+        "Age": "29",
+        "Height": "1.98m",
+        "Weight": "98kg",
+        "College": "Colorado",
+        "Salary": "16285714\u20ac"
+    },
+    {
+        "Name": "Luka",
+        "Surname": "Doncic",
+        "Number": "77",
+        "Position": "PG",
+        "Age": "23",
+        "Height": "2.01m",
+        "Weight": "104kg",
+        "College": "--",
+        "Salary": "9665671\u20ac"
+    },
+    {
+        "Name": "Dorian",
+        "Surname": "Finney-Smith",
+        "Number": "10",
+        "Position": "PF",
+        "Age": "29",
+        "Height": "2.01m",
+        "Weight": "100kg",
+        "College": "Florida",
+        "Salary": "3800000\u20ac"
+    },
+    {
+        "Name": "Josh",
+        "Surname": "Green",
+        "Number": "8",
+        "Position": "SG",
+        "Age": "21",
+        "Height": "1.96m",
+        "Weight": "91kg",
+        "College": "Arizona",
+        "Salary": "2809644\u20ac"
+    },
+    {
+        "Name": "Tim",
+        "Surname": "Hardaway",
+        "Number": "11",
+        "Position": "SF",
+        "Age": "30",
+        "Height": "1.96m",
+        "Weight": "93kg",
+        "College": "Michigan",
+        "Salary": "20243375\u20ac"
+    },
+    {
+        "Name": "Maxi",
+        "Surname": "Kleber",
+        "Number": "42",
+        "Position": "PF",
+        "Age": "30",
+        "Height": "2.08m",
+        "Weight": "109kg",
+        "College": "--",
+        "Salary": "8526250\u20ac"
+    },
+    {
+        "Name": "Brandon",
+        "Surname": "Knight",
+        "Number": "20",
+        "Position": "PG",
+        "Age": "30",
+        "Height": "1.88m",
+        "Weight": "83kg",
+        "College": "Kentucky",
+        "Salary": "950\u20ac"
+    },
+    {
+        "Name": "Boban",
+        "Surname": "Marjanovic",
+        "Number": "51",
+        "Position": "C",
+        "Age": "33",
+        "Height": "2.21m",
+        "Weight": "132kg",
+        "College": "--",
+        "Salary": "3325000\u20ac"
+    },
+    {
+        "Name": "Frank",
+        "Surname": "Ntilikina",
+        "Number": "21",
+        "Position": "PG",
+        "Age": "23",
+        "Height": "1.93m",
+        "Weight": "91kg",
+        "College": "--",
+        "Salary": "1585719\u20ac"
+    },
+    {
+        "Name": "Theo",
+        "Surname": "Pinson",
+        "Number": "1",
+        "Position": "G",
+        "Age": "26",
+        "Height": "1.96m",
+        "Weight": "96kg",
+        "College": "NorthCarolina",
+        "Salary": "950\u20ac"
+    },
+    {
+        "Name": "Dwight",
+        "Surname": "Powell",
+        "Number": "7",
+        "Position": "C",
+        "Age": "30",
+        "Height": "2.08m",
+        "Weight": "109kg",
+        "College": "Stanford",
+        "Salary": "10526119\u20ac"
+    },
+    {
+        "Name": "Moses",
+        "Surname": "Wright",
+        "Number": "5",
+        "Position": "F",
+        "Age": "23",
+        "Height": "2.03m",
+        "Weight": "103kg",
+        "College": "GeorgiaTech",
+        "Salary": "95\u20ac"
+    }
+]

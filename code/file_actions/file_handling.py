@@ -32,7 +32,7 @@ def read_csv(file_path):
     Returns:
         tuple[list[str], list[list[str]]]: Header, other rows
     """
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="UTF8") as f:
         reader = csv.reader(f)
         header = next(reader)  # Save header
         rows = []
@@ -50,7 +50,7 @@ def write_csv(file_path, header, data):
         header (list[str]): List with header values
         data (list[list[str]]): List containing each row (as a list of string)
     """
-    with open(file_path, "w", newline="") as f:  # Add encoding='UTF8' if needed, newline removes emptyline between rows
+    with open(file_path, "w", newline="", encoding="UTF8") as f:  # Add encoding='UTF8' if needed, newline removes emptyline between rows
         writer = csv.writer(f)
         writer.writerow(header)
         writer.writerows(data)
@@ -80,7 +80,7 @@ def write_json(file_path, data):
         data (any): Object to save in json file
     """
     with open(file_path, "w") as f:
-        json.dump(data, f, indent=4, sort_keys=True)
+        json.dump(data, f, indent=4)  #, sort_keys=True)
 
 
 def update_json_dictionary(file_path, data):
