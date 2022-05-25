@@ -20,6 +20,29 @@ def get_grayscale_image(image):
     return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 
+def resize_image(image, width, height):
+    """
+    Resizes image to specified width and height.
+    """
+    return cv2.resize(image, (width, height), interpolation=cv2.INTER_AREA)
+
+
+def get_rgb_from_grayscale(image):
+    """
+    Converts grayscale image back to RGB.
+    """
+    return cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
+
+
+def get_image_size(image):
+    """
+    Returns width and height of image
+    """
+    width = int(image.shape[1])
+    height = int(image.shape[0])
+    return width, height
+
+
 def show_image(image, window_title="Title"):
     """
     Displayes image on window based on passed title.
@@ -56,13 +79,15 @@ def camera_input():
 
     while True:
 
-        _, frame = video.read() 
+        ret, frame = video.read() 
 
-        show_image(frame)
+        if ret:
 
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            # save_image(RELATIVE_PATH + "jaz.png", frame)
-            break
+            show_image(frame)
+
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                # save_image(RELATIVE_PATH + "jaz.png", frame)
+                break
 
     video.release()
     quit()
