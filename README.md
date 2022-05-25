@@ -8,9 +8,7 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-8. predavanja so 18.04.2022 ob 17:30
-
-Za končni projekt je bila izbrana tema **Manipulacija slik ali videov (OpenCV2)**
+Končni videoposnetek (generiranega s kodo) projetka **Manipulacija slik ali videov (OpenCV2)** najdete v `mapi code/Projekt_OpenCV`
 
 ### Zoom:
 
@@ -73,7 +71,7 @@ https://www.w3schools.com/python/
 
 ## Sklopi 
 
-**Pregled:**
+**Pregled obdelane snovi:**
 
 - Uvod v programiranje, osnovni pojmi, sintaksa, spremenljivke, komentarji (P1)
 - Podatkovni tipi
@@ -113,7 +111,7 @@ https://www.w3schools.com/python/
     - JSON (P7)
     - Csv (P7)
 - Virtualizacija (virtual environments) (P8)
-- Matplotlib (P8)
+- ~~Matplotlib (P8)~~
 - Krajši projekt, ideje: (P8 in P9)
     - ~~Video igra (Pygame)~~
     - ~~Branje strani ali "web scraping" (Selenium, BS4)~~
