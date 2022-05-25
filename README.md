@@ -8,7 +8,7 @@ Snov iz prejšnjega leta:
 
 ### Novice:
 
-Končni videoposnetek (generiranega s kodo) projetka **Manipulacija slik ali videov (OpenCV2)** najdete v `mapi code/Projekt_OpenCV`
+Končni videoposnetek (ustvarjen s kodo) projetka **Manipulacija slik ali videov (OpenCV2)** najdete v `mapi code/Projekt_OpenCV`
 
 ### Zoom:
 
